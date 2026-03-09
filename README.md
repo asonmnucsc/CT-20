@@ -13,6 +13,8 @@ Video Tutorials (via The Coding Train): Nesting loops
 Created animation with nested code loops 
 Had some trouble getting all the dots at first there were only a few for some reason.
 
+![image alt](https://github.com/asonmnucsc/CT-20/blob/97c2c3d46bbbf2439b7e9f0719904313b3d721ed/dotdotdot.png)
+
 
 Video Tutorials (via The Coding Train): functions
 
