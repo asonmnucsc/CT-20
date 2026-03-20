@@ -1,0 +1,27 @@
+Week 9: 
+Code review tomorrow 10 a.m.  
+Project 3 Generative Landscape 
+World-making and terraforming 
+Brief: 
+Write a program that presents an ever-changing, imaginative “landscape.” Populate your 
+landscape with features that are suitable for your concept: trees, buildings, vehicles, animals, 
+people, food items, body parts, hairs, seaweed, space junk, zombies, etc. Give consideration to 
+the depth of variation in...
+
+Strawberry fields forever 
+Color changing berries 
+Problems: mp3 to big need converter, typos, 
+
+Other options: 
+Custom Pixel 
+Reimagining the display Brief Pixels are the fundamental building blocks of bitmap images and 
+digital displays. Conventionally, pixels are square, uniform, and parked in a static Cartesian grid. 
+Challenge these assumptions by writing code to reconstruct a specific photographic image 
+using “custom picture elements” of your own devising. What if pixels were hexagonal? Could 
+they be arranged on an irregular lattice? What if they overlapped, moved, or had a variety of 
+sizes? Do a better version of pro 2 pixel plants 
+One-Button Game 
+Designing within tight constraints Brief Your challenge is to make a game whose interface is 
+limited to a single button. A button has two states: pressed and released. How can you design a 
+core game mechanic solely using the changes between these states? T pong 
+Virtual Public Sculpture
